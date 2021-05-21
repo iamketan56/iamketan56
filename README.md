@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/ketan-sharma-508087193/">
   <img align="left" alt="ketan.s li" width="21px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" />
 </a>
+<br><br>
 <br>
 Hi, I'm Ketan Sharma, a information technology undergraduate student....
 
