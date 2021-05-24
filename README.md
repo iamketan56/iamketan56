@@ -18,6 +18,7 @@ Hi, I'm Ketan Sharma, a information technology undergraduate student....
 
 - 🔭 I’m currently working on interesting projects .
 - 🌱 I’m currently learning Node Js and MongoDB(Backend Dev).
+- 🌱 DSA learning with Practice.
 <br>
 <br>
 <br>
